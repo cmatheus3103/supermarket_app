@@ -4,7 +4,8 @@ Welcome to the SuperMarket_app project! This project was developed for Bento's F
 
 ![Initial Chalenge](https://github.com/user-attachments/assets/fcb9a193-5f60-4480-a538-3ab0acc543f3)
 
-Amostra do App rodando em um android Poco F3 
+Amostra Rodando em um Poco F3
+
 https://github.com/user-attachments/assets/7fe419d7-3d0b-42a3-a45a-5cf322b1c23e
 
 
