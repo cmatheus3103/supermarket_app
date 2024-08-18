@@ -1,0 +1,101 @@
+{
+    "categories": [
+        {
+            "name": "Dairy products",
+            "imageUrl": "https://img.freepik.com/vetores-gratis/grupo-de-produtos-lacteos-queijo-manteiga-e-leite_1308-160301.jpg?t=st=1723443709~exp=1723447309~hmac=d8dceff0af7a985f952c1749fd8fcf7edd3ecbb49c56029e3d2e52856b34e499&w=1060"
+        },
+        {
+            "name": "Meat",
+            "imageUrl": "https://img.freepik.com/vetores-gratis/ilustracao-do-icone-dos-desenhos-animados-de-carne-conceito-de-icone-de-comida-animal-isolado-estilo-flat-cartoon_138676-2151.jpg?ga=GA1.1.508825889.1723443589&semt=ais_hybrid"
+        },
+        {
+            "name": "Fruits",
+            "imageUrl": "https://img.freepik.com/vetores-gratis/papel-de-parede-de-varias-frutas-e-legumes_23-2148481554.jpg?ga=GA1.1.508825889.1723443589&semt=ais_hybrid"
+        },
+        {
+            "name": "Dairy products",
+            "imageUrl": "https://img.freepik.com/vetores-gratis/grupo-de-produtos-lacteos-queijo-manteiga-e-leite_1308-160301.jpg?t=st=1723443709~exp=1723447309~hmac=d8dceff0af7a985f952c1749fd8fcf7edd3ecbb49c56029e3d2e52856b34e499&w=1060"
+        },
+        {
+            "name": "Meat",
+            "imageUrl": "https://img.freepik.com/vetores-gratis/ilustracao-do-icone-dos-desenhos-animados-de-carne-conceito-de-icone-de-comida-animal-isolado-estilo-flat-cartoon_138676-2151.jpg?ga=GA1.1.508825889.1723443589&semt=ais_hybrid"
+        },
+        {
+            "name": "Fruits",
+            "imageUrl": "https://img.freepik.com/vetores-gratis/papel-de-parede-de-varias-frutas-e-legumes_23-2148481554.jpg?ga=GA1.1.508825889.1723443589&semt=ais_hybrid"
+        },
+        {
+            "name": "Dairy products",
+            "imageUrl": "https://img.freepik.com/vetores-gratis/grupo-de-produtos-lacteos-queijo-manteiga-e-leite_1308-160301.jpg?t=st=1723443709~exp=1723447309~hmac=d8dceff0af7a985f952c1749fd8fcf7edd3ecbb49c56029e3d2e52856b34e499&w=1060"
+        },
+        {
+            "name": "Meat",
+            "imageUrl": "https://img.freepik.com/vetores-gratis/ilustracao-do-icone-dos-desenhos-animados-de-carne-conceito-de-icone-de-comida-animal-isolado-estilo-flat-cartoon_138676-2151.jpg?ga=GA1.1.508825889.1723443589&semt=ais_hybrid"
+        }
+    ],
+    "userInfo": {
+        "name": "Carlos Matheus",
+        "photoUrl": "https://avatar.iran.liara.run/public/boy?username=Ash"
+    },
+    "banners": [
+        {
+            "imageURL": "assets/images/banners/banner_01.jpg"
+        },
+        {
+            "imageURL": "assets/images/banners/banner_02.jpg"
+        },
+        {
+            "imageURL": "assets/images/banners/banner_01.jpg"
+        },
+        {
+            "imageURL": "assets/images/banners/banner_02.jpg"
+        },
+        {
+            "imageURL": "assets/images/banners/banner_01.jpg"
+        }
+    ],
+    "products": [
+        {
+            "name": "Apple",
+            "imageURL": "https://pngimg.com/uploads/apple/apple_PNG12409.png",
+            "description": "The apple is a medium-sized fruit, usually red, green, or yellow in color, produced by the apple tree (Malus domestica). Apples are widely consumed fresh, in pies, juices, and ciders, and are known for their sweet and crisp taste. They are rich in dietary fiber, vitamin C, and various antioxidants. Apples belong to the Rosaceae family, which also includes fruits like pears, peaches, and plums. The apple tree is a deciduous tree that has been cultivated for thousands of years in Asia and Europe.",
+            "shopName": "Alisha Mart",
+            "price": 10.0,
+            "rate": 5.0,
+            "discountPrice": 9.90,
+            "images": [
+                "https://pngimg.com/uploads/apple/apple_PNG12409.png",
+                "https://pngimg.com/uploads/apple/apple_PNG12460.png",
+                "https://pngimg.com/uploads/apple/apple_PNG12465.png"
+            ]
+        },
+        {
+            "name": "Strawberry",
+            "imageURL": "https://pngimg.com/uploads/strawberry/strawberry_PNG2609.png",
+            "description": "The strawberry is a small, red, and juicy fruit produced by the plant of the genus Fragaria. Strawberries are valued for their sweet and slightly tart flavor and are widely consumed fresh, in desserts, jams, and juices. They are rich in vitamin C, manganese, and antioxidants. The strawberry plant is a perennial, belonging to the Rosaceae family, which includes other fruits such as apples, pears, and raspberries. The modern strawberry is a hybrid of several wild strawberry species.",
+            "shopName": "Alisha Mart",
+            "price": 8.0,
+            "rate": 4.0,
+            "discountPrice": 6.99,
+            "images": [
+                "https://pngimg.com/uploads/strawberry/strawberry_PNG2609.png",
+                "https://pngimg.com/uploads/strawberry/strawberry_PNG2580.png"
+                
+            ]
+        },
+        {
+            "name": "Orange",
+            "imageURL": "https://pngimg.com/uploads/orange/orange_PNG800.png",
+            "description": "The orange is a citrus fruit, typically orange in color, produced by several species of trees in the genus Citrus. Oranges are known for their sweet and tangy flavor and are widely cultivated for consumption as fresh fruit, as well as for juice production and other food products. They are rich in vitamin C and antioxidants and are descended from a hybridization between the pomelo and the mandarin. Orange trees belong to the Rutaceae family, which also includes lemons, limes, and grapefruits.",
+            "shopName": "Alisha Mart",
+            "price": 12.0,
+            "rate": 4.5,
+            "discountPrice": 7.99,
+            "images": [
+                "https://pngimg.com/uploads/orange/orange_PNG800.png",
+                "https://pngimg.com/uploads/orange/orange_PNG811.png"
+                
+            ]
+        }
+    ]
+}
