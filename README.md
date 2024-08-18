@@ -3,8 +3,13 @@
 Welcome to the SuperMarket_app project! This project was developed for Bento's Flutter challenge. Here you will find a mobile application that simulates a supermarket application, with two main screens: the Home Screen, which contains several sections of the application, and the product details page, which contains details of a product.
 
 ![Initial Chalenge](https://github.com/user-attachments/assets/fcb9a193-5f60-4480-a538-3ab0acc543f3)
-)
 
+Amostra do App rodando em um android Poco F3 
+https://github.com/user-attachments/assets/7fe419d7-3d0b-42a3-a45a-5cf322b1c23e
+
+
+
+[Apk Link] () 
 ## Initial Challenges
 
 ### Working with Image-Based Design Instead of Figma
@@ -34,7 +39,13 @@ With my approach of creating a simulation similar to reality, real problems that
 
 This project is a hybrid mobile application developed with Flutter, utilizing a variation of Clean Architecture with SOLID principles and Dart language conventions.
 
-## Technologies Used
+
+
+## Technologies 
+
+https://github.com/user-attachments/assets/25e2b6e3-5b3f-482b-9be4-f48698191f45
+
+Used
 
 - **Flutter 3.24.0**: Used to develop the cross-platform user interface, allowing the creation of high-performance and aesthetically pleasing applications for Android and iOS from a single codebase.
 
