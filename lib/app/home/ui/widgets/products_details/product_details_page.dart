@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:supermarket_app/app/core/constants/app_colors.dart';
-import 'package:supermarket_app/app/home/domain/entities/banner_entity.dart';
-import 'package:supermarket_app/app/home/domain/entities/product_entity.dart';
 
+
+import '../../../../core/constants/app_colors.dart';
 import '../../../../core/constants/font_styles.dart';
+import '../../../domain/entities/banner_entity.dart';
+import '../../../domain/entities/product_entity.dart';
 import '../banner_carousel/banner_carousel_widget.dart';
 import 'product_body_widget.dart';
 

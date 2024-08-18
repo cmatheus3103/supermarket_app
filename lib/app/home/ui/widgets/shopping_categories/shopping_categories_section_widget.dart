@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:supermarket_app/app/home/domain/entities/category_entity.dart';
+
 
 import '../../../../core/constants/font_styles.dart';
+import '../../../domain/entities/category_entity.dart';
 import 'shopping_categorie_widget.dart';
 
 class ShoppingCategoriesSectionWidget extends StatefulWidget {

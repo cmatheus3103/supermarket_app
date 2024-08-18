@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:supermarket_app/app/home/domain/entities/banner_entity.dart';
 
+
+import '../../../domain/entities/banner_entity.dart';
 import 'banner_widget.dart';
 import 'index_indicator_widget.dart';
 

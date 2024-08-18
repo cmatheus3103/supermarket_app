@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:supermarket_app/app/home/domain/entities/user_entity.dart';
+
 
 import '../../../core/constants/font_styles.dart';
+import '../../domain/entities/user_entity.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   const CustomAppBar({super.key, required this.userEntity});

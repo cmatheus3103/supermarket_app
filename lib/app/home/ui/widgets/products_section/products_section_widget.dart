@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:supermarket_app/app/core/constants/app_colors.dart';
-import 'package:supermarket_app/app/home/domain/entities/product_entity.dart';
 
+
+import '../../../../core/constants/app_colors.dart';
 import '../../../../core/constants/font_styles.dart';
+import '../../../domain/entities/product_entity.dart';
 import 'product_widget.dart';
 
 class ProductsSectionWidget extends StatefulWidget {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:supermarket_app/app/home/ui/widgets/home_botton_navigation_bar.dart';
+
 import '../../../main.dart';
 import '../../core/constants/app_colors.dart';
 import '../domain/controllers/home_controller.dart';
@@ -7,6 +7,7 @@ import '../domain/states/home_states.dart';
 import 'widgets/button_card.widget.dart';
 import 'widgets/banner_carousel/banner_carousel_widget.dart';
 import 'widgets/custom_app_bar.dart';
+import 'widgets/home_botton_navigation_bar.dart';
 import 'widgets/home_floating_action_button.dart';
 import 'widgets/products_section/products_section_widget.dart';
 import 'widgets/shopping_categories/shopping_categories_section_widget.dart';
