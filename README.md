@@ -2,7 +2,8 @@
 
 Welcome to the SuperMarket_app project! This project was developed for Bento's Flutter challenge. Here you will find a mobile application that simulates a supermarket application, with two main screens: the Home Screen, which contains several sections of the application, and the product details page, which contains details of a product.
 
-![Initial Chalenge](image.png)
+![Initial Chalenge](https://github.com/user-attachments/assets/fcb9a193-5f60-4480-a538-3ab0acc543f3)
+)
 
 ## Initial Challenges
 
