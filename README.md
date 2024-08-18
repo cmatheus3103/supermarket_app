@@ -44,7 +44,6 @@ This project is a hybrid mobile application developed with Flutter, utilizing a 
 
 ## Technologies 
 
-https://github.com/user-attachments/assets/25e2b6e3-5b3f-482b-9be4-f48698191f45
 
 Used
 
